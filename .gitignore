@@ -1,0 +1,4 @@
+# ".gitignore" files are for confidential data that we don't want that others see.
+
+node_modules/
+.env
